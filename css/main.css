@@ -1,0 +1,120 @@
+body{
+	margin: 0;
+	background-color: #efefef;
+}
+/*header*/
+.topnav{
+	margin-left: 1%;
+}
+.menu{
+	background-color:#4b537f;
+	margin-top: 0%;
+}
+.topnav a{
+	text-decoration:none;	
+	font-size: 28px;
+	color: white;
+	font-family: 'Mulish', sans-serif;
+	margin-right: 15px;
+}
+.topnav a:hover{
+	color: #296345;
+	background-color:#eee;
+			
+}
+.bb{
+
+	font-size: 28px;
+	color: #ffffcd;
+	margin-left: 1%;
+	font-family: 'Press Start 2P', cursive;
+}
+/*history*/
+.bb2{
+	font-size: 28px;
+	color: #4b537f;
+	text-align: center;
+	font-family: 'Press Start 2P', cursive;
+}
+.history{
+	background-color: white;
+	margin: 3%;
+	padding: 5%;
+	border-radius: 10%;
+}
+.ccc{
+
+	font-size:18px;
+	color: #4f537f;
+	font-family: 'Mulish', sans-serif;
+	
+}
+.foto{
+	padding-left: 5%;
+	padding-right: 5%;
+	border-radius: 30%;
+	transition: 0.7s;
+
+}
+.foto:hover{
+	transform: scale(1.2);
+	border-radius: 25%;
+
+}
+/*priroda*/
+.priroda{
+	background-color: white;
+	margin: 3%;
+	padding: 5%;
+	border-radius: 10%;
+}
+.ccc .foto2{
+    margin-bottom: -30px;
+}
+.foto2{
+	padding-left: 5%;
+	padding-right: 5%;
+	margin: auto;
+    display: block;
+    border-radius: 30%;
+	transition: 0.7s;
+
+}
+.foto2:hover{
+	transform: scale(1.2);
+	border-radius: 25%;
+
+}
+/*voda*/
+.voda{
+	background-color: white;
+	margin: 3%;
+	padding: 5%;
+	border-radius: 10%;
+}
+.hfj{
+	font-size: 30px;
+	color: #a54747;
+	text-align: center;
+	font-family: 'Press Start 2P', cursive;
+}
+/*flora and fauna*/
+.flfa{
+	background-color: white;
+	margin: 3%;
+	padding: 5%;
+	border-radius: 10%;
+}
+	/*footer*/
+.fote{
+	text-align: center;
+	color: white;
+	font-family: 'Mulish', sans-serif;
+	font-size: 18px;
+
+
+}
+footer{
+	background-color: #555fa9;
+	padding: 10%;
+}
